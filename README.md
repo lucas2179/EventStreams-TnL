@@ -1,22 +1,5 @@
 
-<p align="center">
-    <a href="https://cloud.ibm.com">
-        <img src="assets/https://my1.digitalexperience.ibm.com/8304c341-f896-4e04-add0-0a9ae02473ba/dxdam/2d/2d559197-6763-4e47-a2cb-8f54c449ff26/ibm-cloud.svg" height="100" alt="IBM Cloud">
-    </a>
-</p>
 
-<p align="center">
-    <a href="https://cloud.ibm.com">
-		<img src="assets/https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg" alt="IBM Cloud">
-    </a>
-    <a href="https://www.python.org">
-		<img src="assets/https://img.shields.io/badge/platform-python-lightgrey.svg?style=flat%22%20alt=%22platform">
-	</a>
-	<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-		<img src="assets/https://img.shields.io/badge/license-gpl3-blue.svg?style=flat" alt="GPL 3">
-	</a>
-	<img src="assets/https://img.shields.io/badge/release-v1.0-red">
-</p>
 <p></p>
 <p align="center">
 <b>Ranking das músicas mais ouvidas em tempo real com Event Streams</b>
